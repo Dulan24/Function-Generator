@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=NetB2_6 Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=NetB3_7 Pin=J1-4
+Removed Pin From Net: NetName=NetB1_5 Pin=J1-5
+Removed Pin From Net: NetName=NetJ1_6 Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=NetC7_2 Pin=J1-8
+Removed Pin From Net: NetName=NetJ1_9 Pin=J1-9
+Removed Pin From Net: NetName=NetB2_6 Pin=J1-10
+Removed Pin From Net: NetName=NetC4_1 Pin=J2-1
+Removed Pin From Net: NetName=NetC3_1 Pin=J2-2
+Removed Pin From Net: NetName=NetB1_6 Pin=J2-3
+Removed Pin From Net: NetName=NetC2_1 Pin=J2-4
+Removed Pin From Net: NetName=NetC1_1 Pin=J2-5
+Removed Pin From Net: NetName=NetB1_8 Pin=power-1
+Removed Pin From Net: NetName=GND Pin=power-2
+Removed Pin From Net: NetName=NetB1_4 Pin=power-3
+Removed Member From Class: ClassName=Sheet1 Member=power
+Added Component: Designator=j1(61301021121)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx21121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61301021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61301021121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=j2(61300511121)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61300511121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61300511121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=PW(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=j1-1
+Added Pin To Net: NetName=NetB2_6 Pin=j1-2
+Added Pin To Net: NetName=GND Pin=j1-3
+Added Pin To Net: NetName=NetB3_7 Pin=j1-4
+Added Pin To Net: NetName=NetB1_5 Pin=j1-5
+Added Pin To Net: NetName=NetJ1_6 Pin=j1-6
+Added Pin To Net: NetName=GND Pin=j1-7
+Added Pin To Net: NetName=NetC7_2 Pin=j1-8
+Added Pin To Net: NetName=NetJ1_9 Pin=j1-9
+Added Pin To Net: NetName=NetB2_6 Pin=j1-10
+Added Pin To Net: NetName=NetC4_1 Pin=j2-1
+Added Pin To Net: NetName=NetC3_1 Pin=j2-2
+Added Pin To Net: NetName=NetB1_6 Pin=j2-3
+Added Pin To Net: NetName=NetC2_1 Pin=j2-4
+Added Pin To Net: NetName=NetC1_1 Pin=j2-5
+Added Pin To Net: NetName=NetB1_8 Pin=PW-1
+Added Pin To Net: NetName=GND Pin=PW-2
+Added Pin To Net: NetName=NetB1_4 Pin=PW-3
+Added Member To Class: ClassName=Sheet1 Member=Component B3 AD826ANZ
+Added Member To Class: ClassName=Sheet1 Member=Component B5 AD826ANZ
+Added Member To Class: ClassName=Sheet1 Member=Component PW Power

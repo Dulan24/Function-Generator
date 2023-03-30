@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=NetB3_1 Pin=B3-1
+Removed Pin From Net: NetName=NetB3_2 Pin=B3-2
+Removed Pin From Net: NetName=NetB1_4 Pin=B3-4
+Removed Pin From Net: NetName=NetB1_8 Pin=B3-8
+Removed Pin From Net: NetName=NetB3_1 Pin=B4-5
+Removed Pin From Net: NetName=NetB5_1 Pin=B5-1
+Removed Pin From Net: NetName=NetB5_2 Pin=B5-2
+Removed Pin From Net: NetName=GND Pin=B5-3
+Removed Pin From Net: NetName=NetB1_4 Pin=B5-4
+Removed Pin From Net: NetName=NetB1_8 Pin=B5-8
+Removed Pin From Net: NetName=NetB7_1 Pin=B7-1
+Removed Pin From Net: NetName=NetB7_2 Pin=B7-2
+Removed Pin From Net: NetName=GND Pin=B7-3
+Removed Pin From Net: NetName=NetB1_4 Pin=B7-4
+Removed Pin From Net: NetName=NetB1_8 Pin=B7-8
+Removed Pin From Net: NetName=GND Pin=B9-3
+Removed Pin From Net: NetName=NetB1_4 Pin=B9-4
+Removed Pin From Net: NetName=NetB1_8 Pin=B9-8
+Removed Pin From Net: NetName=NetB3_2 Pin=R6-1
+Removed Pin From Net: NetName=NetB3_1 Pin=R7-1
+Removed Pin From Net: NetName=NetB3_2 Pin=R7-2
+Removed Pin From Net: NetName=NetB5_2 Pin=R8-1
+Removed Pin From Net: NetName=NetB5_1 Pin=R9-2
+Removed Member From Class: ClassName=Sheet1 Member=B6
+Removed Member From Class: ClassName=Sheet1 Member=B7
+Removed Member From Class: ClassName=Sheet1 Member=B9
+Removed Member From Class: ClassName=Sheet1 Member=B10
+Change Component Comment : Designator=B4 Old Comment=buffer New Comment=comparator gain
+Change Component Designator: OldDesignator=B4 NewDesignator=B2
+Change Component Designator: OldDesignator=B6 NewDesignator=B3
+Change Component Designator: OldDesignator=B8 NewDesignator=B4
+Change Component Designator: OldDesignator=B10 NewDesignator=B5
+Added Pin To Net: NetName=NetB3_1 Pin=B3-1
+Added Pin To Net: NetName=NetB3_2 Pin=B3-2
+Added Pin To Net: NetName=GND Pin=B3-3
+Added Pin To Net: NetName=NetB7_1 Pin=B4-1
+Added Pin To Net: NetName=NetB7_2 Pin=B4-2
+Added Pin To Net: NetName=GND Pin=B4-3
+Added Pin To Net: NetName=NetB5_1 Pin=B5-1
+Added Pin To Net: NetName=NetB5_2 Pin=B5-2
+Added Pin To Net: NetName=GND Pin=B5-3
+Added Pin To Net: NetName=NetB5_1 Pin=B5-5
+Added Pin To Net: NetName=NetB5_2 Pin=HR4-1
+Added Pin To Net: NetName=NetB5_1 Pin=HR4-2
+Added Pin To Net: NetName=NetB3_2 Pin=R8-1
+Added Pin To Net: NetName=NetB3_1 Pin=R9-2
+Added Pin To Net: NetName=NetB5_2 Pin=R16-1
+Change Net Name : Old Net Name=NetB4_6 New Net Name=NetB2_6
+Change Net Name : Old Net Name=NetB6_6 New Net Name=NetB3_6
+Change Net Name : Old Net Name=NetB6_7 New Net Name=NetB3_7
+Change Net Name : Old Net Name=NetB7_1 New Net Name=NetB4_1
+Change Net Name : Old Net Name=NetB7_2 New Net Name=NetB4_2
+Change Net Name : Old Net Name=NetB8_6 New Net Name=NetB4_6
+Change Net Name : Old Net Name=NetB8_7 New Net Name=NetB4_7
+Change Net Name : Old Net Name=NetB10_6 New Net Name=NetB5_6
+Change Net Name : Old Net Name=NetB10_7 New Net Name=NetB5_7
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_1 Pin=B2-5
+Added Pin To Net: NetName=NetB2_1 Pin=R7-1
+Added Net: Name=NetB2_1
+Added Pin To Net: NetName=NetB2_2 Pin=B2-2
+Added Pin To Net: NetName=NetB2_2 Pin=R6-1
+Added Pin To Net: NetName=NetB2_2 Pin=R7-2
+Added Net: Name=NetB2_2
+Added Pin To Net: NetName=NetB2_3 Pin=B2-3
+Added Pin To Net: NetName=NetB2_3 Pin=P1-2
+Added Net: Name=NetB2_3
